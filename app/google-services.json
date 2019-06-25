@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "435554417599",
+    "firebase_url": "https://teste-54fb7.firebaseio.com",
+    "project_id": "teste-54fb7",
+    "storage_bucket": "teste-54fb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435554417599:android:5ef92e6848494939",
+        "android_client_info": {
+          "package_name": "com.requisicoes.cursoandroid.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435554417599-a8cpc22ac9jorcpkg3kio7ehdhfdd3t9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.requisicoes.cursoandroid.login",
+            "certificate_hash": "4bd3dfa9fede31d86bf183028fef0155b71749e9"
+          }
+        },
+        {
+          "client_id": "435554417599-rtvrso7ed1clqsfbf5lv6qo19cm5olsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv9jt-hacxx1fvFHc_nTnLM3CXfJxLGzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435554417599-rtvrso7ed1clqsfbf5lv6qo19cm5olsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
