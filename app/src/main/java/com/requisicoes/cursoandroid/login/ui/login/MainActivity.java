@@ -53,7 +53,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-
         //inicial provedor
         provedor = Arrays.asList(
                 new AuthUI.IdpConfig.EmailBuilder().build(),    //Email Buider
