@@ -23,7 +23,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final int MY_REQUEST_CODE = 7117; //Qualquer número que você quiser
+    private static final int MY_REQUEST_CODE = 7117;  //Qualquer número que você quiser
     List<AuthUI.IdpConfig> provedor;
     Button btn_sign_out;
 
