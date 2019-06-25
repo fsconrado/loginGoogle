@@ -43,7 +43,6 @@ public class MainActivity extends AppCompatActivity {
                             public void onComplete(@NonNull Task<Void> task) {
                                 btn_sign_out.setEnabled(false);
                                 showSignInOptions();
-
                             }
                         }).addOnFailureListener(new OnFailureListener() {
                     @Override
